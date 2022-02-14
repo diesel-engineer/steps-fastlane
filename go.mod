@@ -10,3 +10,5 @@ require (
 	github.com/bitrise-io/go-xcode v0.0.0-20210521101355-fb6a1eb6e05b
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 )
+
+replace github.com/bitrise-io/go-steputils => github.com/diesel-engineer/go-steputils v0.0.0-20220214061121-51791a02a36e
